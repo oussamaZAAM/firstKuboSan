@@ -164,4 +164,4 @@ def main(search_term):
         writer.writerow(['Description', 'URL', 'Price', 'Rating', 'Review Count'])
         writer.writerows(records)
 
-main('Daki Makura')
+main('Monogatari')
